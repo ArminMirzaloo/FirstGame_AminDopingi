@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+    <file alias="background">resources/images/Decorate/background.png</file>
+    </qresource>
+</RCC>
