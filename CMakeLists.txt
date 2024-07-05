@@ -21,7 +21,8 @@ add_executable(FirstGame_Amin_Dopingi_ main.cpp
         Turtle.h
         Turtle.cpp
         Player.h
-        Player.cpp)
+        Player.cpp
+        resources.qrc)
 target_link_libraries(FirstGame_Amin_Dopingi_
         Qt::Core
         Qt::Gui

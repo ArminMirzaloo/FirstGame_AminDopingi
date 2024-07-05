@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj"
+  "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj.d"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj.d"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj"
@@ -15,6 +17,7 @@ file(REMOVE_RECURSE
   "FirstGame_Amin_Dopingi_.exe"
   "FirstGame_Amin_Dopingi_.exe.manifest"
   "FirstGame_Amin_Dopingi_.pdb"
+  "FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp"
   "libFirstGame_Amin_Dopingi_.dll.a"
 )
 

@@ -141,6 +141,30 @@ FirstGame_Amin_Dopingi__autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi__autogen.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi__autogen.dir/build
 .PHONY : FirstGame_Amin_Dopingi__autogen/fast
 
+FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.obj: FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj
+.PHONY : FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.obj
+
+# target to build an object file
+FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi_.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj
+.PHONY : FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj
+
+FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.i: FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.i
+.PHONY : FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.i
+
+# target to preprocess a source file
+FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi_.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.i
+.PHONY : FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.i
+
+FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.s: FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.s
+.PHONY : FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.s
+
+# target to generate assembly for a file
+FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi_.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.s
+.PHONY : FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.s
+
 FirstGame_Amin_Dopingi__autogen/mocs_compilation.obj: FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj
 .PHONY : FirstGame_Amin_Dopingi__autogen/mocs_compilation.obj
 
@@ -271,6 +295,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... FirstGame_Amin_Dopingi__autogen
 	@echo ... FirstGame_Amin_Dopingi_
+	@echo ... FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.obj
+	@echo ... FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.i
+	@echo ... FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.s
 	@echo ... FirstGame_Amin_Dopingi__autogen/mocs_compilation.obj
 	@echo ... FirstGame_Amin_Dopingi__autogen/mocs_compilation.i
 	@echo ... FirstGame_Amin_Dopingi__autogen/mocs_compilation.s

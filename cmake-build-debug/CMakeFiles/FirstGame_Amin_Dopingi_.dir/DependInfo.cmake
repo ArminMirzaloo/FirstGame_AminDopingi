@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/ap/FirstGame/cmake-build-debug/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.obj.d"
   "D:/ap/FirstGame/cmake-build-debug/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj.d"
   "D:/ap/FirstGame/Game.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj.d"
   "D:/ap/FirstGame/Player.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj.d"

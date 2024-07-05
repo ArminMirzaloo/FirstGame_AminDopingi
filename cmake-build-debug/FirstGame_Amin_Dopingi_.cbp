@@ -150,13 +150,25 @@
 		<Unit filename="D:/ap/FirstGame/Turtle.h">
 			<Option target="FirstGame_Amin_Dopingi_"/>
 		</Unit>
+		<Unit filename="D:/ap/FirstGame/cmake-build-debug/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp">
+			<Option target="FirstGame_Amin_Dopingi_"/>
+		</Unit>
+		<Unit filename="D:/ap/FirstGame/cmake-build-debug/FirstGame_Amin_Dopingi__autogen/EWIEGA46WW/qrc_resources.cpp.rule">
+			<Option target="FirstGame_Amin_Dopingi_"/>
+		</Unit>
 		<Unit filename="D:/ap/FirstGame/cmake-build-debug/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp">
 			<Option target="FirstGame_Amin_Dopingi_"/>
 		</Unit>
 		<Unit filename="D:/ap/FirstGame/main.cpp">
 			<Option target="FirstGame_Amin_Dopingi_"/>
 		</Unit>
+		<Unit filename="D:/ap/FirstGame/resources.qrc">
+			<Option target="FirstGame_Amin_Dopingi_"/>
+		</Unit>
 		<Unit filename="D:/ap/FirstGame/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/ap/FirstGame/resources.qrc">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 		<Unit filename="D:/ap/FirstGame/Qt/6.7.2/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake">
