@@ -1,16 +1,15 @@
-//
-// Created by manin on 6/29/2024.
-//
 
 #ifndef FIRSTGAME_AMIN_DOPINGI__TURTLE_H
 #define FIRSTGAME_AMIN_DOPINGI__TURTLE_H
 
+#include <QGraphicsPixmapItem>
 
+class Turtle : public QGraphicsPixmapItem{
 
-class Turtle {
+public:
+    Turtle(QGraphicsItem *parent = nullptr);
 
 };
-
 
 
 #endif //FIRSTGAME_AMIN_DOPINGI__TURTLE_H

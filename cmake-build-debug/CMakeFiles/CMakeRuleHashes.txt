@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+6d713cdfd02416b6abfde898fc441a97 CMakeFiles/FirstGame_Amin_Dopingi__autogen

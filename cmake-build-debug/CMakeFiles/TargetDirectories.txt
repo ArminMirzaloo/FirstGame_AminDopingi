@@ -1,5 +1,4 @@
-C:/FirstGame(Amin_Dopingi)/cmake-build-debug/CMakeFiles/FirstGame_Amin_Dopingi_.dir
-C:/FirstGame(Amin_Dopingi)/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/FirstGame(Amin_Dopingi)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/FirstGame(Amin_Dopingi)/cmake-build-debug/CMakeFiles/FirstGame_Amin_Dopingi__autogen_timestamp_deps.dir
-C:/FirstGame(Amin_Dopingi)/cmake-build-debug/CMakeFiles/FirstGame_Amin_Dopingi__autogen.dir
+D:/ap/FirstGame/cmake-build-debug/CMakeFiles/FirstGame_Amin_Dopingi_.dir
+D:/ap/FirstGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ap/FirstGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ap/FirstGame/cmake-build-debug/CMakeFiles/FirstGame_Amin_Dopingi__autogen.dir

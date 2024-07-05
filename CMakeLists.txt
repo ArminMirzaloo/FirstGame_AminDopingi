@@ -9,16 +9,22 @@ set(CMAKE_AUTOUIC ON)
 set(CMAKE_PREFIX_PATH "C:/Qt/6.7.2/mingw_64")
 
 find_package(Qt6 COMPONENTS
+        Multimedia
         Core
         Gui
         Widgets
         REQUIRED)
 
-add_executable(FirstGame_Amin_Dopingi_ main.cpp)
+add_executable(FirstGame_Amin_Dopingi_ main.cpp
+        Game.h
+        Game.cpp
+        Turtle.h
+        Turtle.cpp)
 target_link_libraries(FirstGame_Amin_Dopingi_
         Qt::Core
         Qt::Gui
         Qt::Widgets
+        Qt::Multimedia
         )
 
 if (WIN32)
