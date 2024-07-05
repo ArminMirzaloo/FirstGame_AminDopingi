@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/ap/FirstGame/cmake-build-debug/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj.d"
   "D:/ap/FirstGame/Game.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj.d"
+  "D:/ap/FirstGame/Player.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj.d"
   "D:/ap/FirstGame/Turtle.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.obj.d"
   "D:/ap/FirstGame/main.cpp" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/main.cpp.obj" "gcc" "CMakeFiles/FirstGame_Amin_Dopingi_.dir/main.cpp.obj.d"
   )

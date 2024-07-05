@@ -128,12 +128,28 @@ CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\ap\FirstGame\Turtle.cpp -o CMakeFiles\FirstGame_Amin_Dopingi_.dir\Turtle.cpp.s
 
+CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj: CMakeFiles/FirstGame_Amin_Dopingi_.dir/flags.make
+CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj: CMakeFiles/FirstGame_Amin_Dopingi_.dir/includes_CXX.rsp
+CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj: D:/ap/FirstGame/Player.cpp
+CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj: CMakeFiles/FirstGame_Amin_Dopingi_.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\ap\FirstGame\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj -MF CMakeFiles\FirstGame_Amin_Dopingi_.dir\Player.cpp.obj.d -o CMakeFiles\FirstGame_Amin_Dopingi_.dir\Player.cpp.obj -c D:\ap\FirstGame\Player.cpp
+
+CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\ap\FirstGame\Player.cpp > CMakeFiles\FirstGame_Amin_Dopingi_.dir\Player.cpp.i
+
+CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\ap\FirstGame\Player.cpp -o CMakeFiles\FirstGame_Amin_Dopingi_.dir\Player.cpp.s
+
 # Object files for target FirstGame_Amin_Dopingi_
 FirstGame_Amin_Dopingi__OBJECTS = \
 "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/FirstGame_Amin_Dopingi_.dir/main.cpp.obj" \
 "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj" \
-"CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.obj"
+"CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.obj" \
+"CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj"
 
 # External object files for target FirstGame_Amin_Dopingi_
 FirstGame_Amin_Dopingi__EXTERNAL_OBJECTS =
@@ -142,6 +158,7 @@ FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Am
 FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/main.cpp.obj
 FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj
 FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.obj
+FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj
 FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/build.make
 FirstGame_Amin_Dopingi_.exe: C:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a
 FirstGame_Amin_Dopingi_.exe: C:/Qt/6.7.2/mingw_64/lib/libQt6Multimedia.a
@@ -151,7 +168,7 @@ FirstGame_Amin_Dopingi_.exe: C:/Qt/6.7.2/mingw_64/lib/libQt6Core.a
 FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/linkLibs.rsp
 FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/objects1.rsp
 FirstGame_Amin_Dopingi_.exe: CMakeFiles/FirstGame_Amin_Dopingi_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\ap\FirstGame\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable FirstGame_Amin_Dopingi_.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\ap\FirstGame\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable FirstGame_Amin_Dopingi_.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\FirstGame_Amin_Dopingi_.dir\link.txt --verbose=$(VERBOSE)
 	"C:\Program Files\JetBrains\CLion 2023.2.2.1\bin\cmake\win\x64\bin\cmake.exe" -E make_directory D:/ap/FirstGame/cmake-build-debug/plugins/platforms/
 	"C:\Program Files\JetBrains\CLion 2023.2.2.1\bin\cmake\win\x64\bin\cmake.exe" -E copy C:/Qt/6.7.2/mingw_64/plugins/platforms/qwindows.dll D:/ap/FirstGame/cmake-build-debug/plugins/platforms/

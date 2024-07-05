@@ -189,6 +189,30 @@ Game.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi_.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.s
 .PHONY : Game.cpp.s
 
+Player.obj: Player.cpp.obj
+.PHONY : Player.obj
+
+# target to build an object file
+Player.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi_.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj
+.PHONY : Player.cpp.obj
+
+Player.i: Player.cpp.i
+.PHONY : Player.i
+
+# target to preprocess a source file
+Player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi_.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.i
+.PHONY : Player.cpp.i
+
+Player.s: Player.cpp.s
+.PHONY : Player.s
+
+# target to generate assembly for a file
+Player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FirstGame_Amin_Dopingi_.dir\build.make CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.s
+.PHONY : Player.cpp.s
+
 Turtle.obj: Turtle.cpp.obj
 .PHONY : Turtle.obj
 
@@ -253,6 +277,9 @@ help:
 	@echo ... Game.obj
 	@echo ... Game.i
 	@echo ... Game.s
+	@echo ... Player.obj
+	@echo ... Player.i
+	@echo ... Player.s
 	@echo ... Turtle.obj
 	@echo ... Turtle.i
 	@echo ... Turtle.s

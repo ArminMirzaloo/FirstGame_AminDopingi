@@ -138,6 +138,12 @@
 		<Unit filename="D:/ap/FirstGame/Game.h">
 			<Option target="FirstGame_Amin_Dopingi_"/>
 		</Unit>
+		<Unit filename="D:/ap/FirstGame/Player.cpp">
+			<Option target="FirstGame_Amin_Dopingi_"/>
+		</Unit>
+		<Unit filename="D:/ap/FirstGame/Player.h">
+			<Option target="FirstGame_Amin_Dopingi_"/>
+		</Unit>
 		<Unit filename="D:/ap/FirstGame/Turtle.cpp">
 			<Option target="FirstGame_Amin_Dopingi_"/>
 		</Unit>

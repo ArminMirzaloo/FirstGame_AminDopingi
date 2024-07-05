@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/FirstGame_Amin_Dopingi__autogen/mocs_compilation.cpp.obj.d"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Game.cpp.obj.d"
+  "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj"
+  "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Player.cpp.obj.d"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.obj"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/Turtle.cpp.obj.d"
   "CMakeFiles/FirstGame_Amin_Dopingi_.dir/main.cpp.obj"
