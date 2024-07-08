@@ -12,13 +12,15 @@ find_package(Qt6 COMPONENTS
         Core
         Gui
         Widgets
+        Multimedia
         REQUIRED)
 
-add_executable(FirstGame_Amin_Dopingi_ main.cpp)
+add_executable(FirstGame_Amin_Dopingi_ main.cpp src/Game.cpp src/Game.h resources.qrc src/views/Platform.cpp src/views/Platform.h src/Player.cpp src/Player.h)
 target_link_libraries(FirstGame_Amin_Dopingi_
         Qt::Core
         Qt::Gui
         Qt::Widgets
+        Qt::Multimedia
         )
 
 if (WIN32)

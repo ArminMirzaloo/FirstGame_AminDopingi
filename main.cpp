@@ -1,10 +1,13 @@
 #include <QApplication>
 #include <QPushButton>
+#include "src/Game.h" // include class Game
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[])
+{
     QApplication a(argc, argv);
-    QPushButton button("Hello world!", nullptr);
-    button.resize(200, 100);
-    button.show();
+
+    auto game = new Game(); //new object from game
+    game->show();
+
     return QApplication::exec();
 }
